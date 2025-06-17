@@ -115,4 +115,6 @@ Use the command line:
 
 This project is licensed under the [MIT License](/LICENSE).
 
-Update:  16.06.2025 05:33
+
+
+Update:  Tuesday 17 June 2025 Secure URLs
